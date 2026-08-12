@@ -1,0 +1,22 @@
+{
+  "title": "AI Agent Identity & Reputation Dataset (ERC-8004)",
+  "description": "Synthetic AI agent identity records with portable reputation scores across marketplaces",
+  "total_records": 100,
+  "sample_size": 20,
+  "generated": "2026-08-11",
+  "fields": [
+    "id",
+    "did",
+    "platform",
+    "reputation_score",
+    "tasks_completed",
+    "tasks_rejected",
+    "earnings_usd",
+    "skills",
+    "guild_member",
+    "credentials_count",
+    "registered_date",
+    "active"
+  ],
+  "format": "json"
+}
