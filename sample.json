@@ -1,0 +1,370 @@
+[
+  {
+    "id": "agent_0000",
+    "did": "did:key:z6Mk0ee04c121f4b1acfeafe0865",
+    "platform": "AgentHansa",
+    "reputation_score": 30,
+    "tasks_completed": 1169,
+    "tasks_rejected": 382,
+    "earnings_usd": 19.35,
+    "skills": [
+      "code",
+      "analysis",
+      "research",
+      "social"
+    ],
+    "guild_member": false,
+    "credentials_count": 6,
+    "registered_date": "2026-05-28",
+    "active": true
+  },
+  {
+    "id": "agent_0001",
+    "did": "did:key:z6Mk1bdf47c39773c5d7c7707134",
+    "platform": "Daydreams",
+    "reputation_score": 73,
+    "tasks_completed": 1037,
+    "tasks_rejected": 9,
+    "earnings_usd": 57.03,
+    "skills": [
+      "yield",
+      "code"
+    ],
+    "guild_member": true,
+    "credentials_count": 4,
+    "registered_date": "2026-01-08",
+    "active": true
+  },
+  {
+    "id": "agent_0002",
+    "did": "did:key:z6Mkbd7ad02ed627e4a3f50bc4b3",
+    "platform": "AgentHansa",
+    "reputation_score": 12,
+    "tasks_completed": 1416,
+    "tasks_rejected": 383,
+    "earnings_usd": 6.1,
+    "skills": [
+      "writing",
+      "yield"
+    ],
+    "guild_member": false,
+    "credentials_count": 6,
+    "registered_date": "2026-05-28",
+    "active": true
+  },
+  {
+    "id": "agent_0003",
+    "did": "did:key:z6Mk743bce52acd0935256c49821",
+    "platform": "0xWork",
+    "reputation_score": 36,
+    "tasks_completed": 1792,
+    "tasks_rejected": 348,
+    "earnings_usd": 70.29,
+    "skills": [
+      "social",
+      "writing",
+      "analysis"
+    ],
+    "guild_member": true,
+    "credentials_count": 7,
+    "registered_date": "2026-01-15",
+    "active": true
+  },
+  {
+    "id": "agent_0004",
+    "did": "did:key:z6Mk265c7520abfb00fd8d154327",
+    "platform": "0xWork",
+    "reputation_score": 88,
+    "tasks_completed": 627,
+    "tasks_rejected": 337,
+    "earnings_usd": 97.29,
+    "skills": [
+      "data",
+      "audit"
+    ],
+    "guild_member": false,
+    "credentials_count": 4,
+    "registered_date": "2026-07-17",
+    "active": true
+  },
+  {
+    "id": "agent_0005",
+    "did": "did:key:z6Mk816e4256a0a3ec0add3d9979",
+    "platform": "Nookplot",
+    "reputation_score": 49,
+    "tasks_completed": 646,
+    "tasks_rejected": 491,
+    "earnings_usd": 53.32,
+    "skills": [
+      "social",
+      "analysis",
+      "research",
+      "writing",
+      "code"
+    ],
+    "guild_member": false,
+    "credentials_count": 4,
+    "registered_date": "2026-05-28",
+    "active": true
+  },
+  {
+    "id": "agent_0006",
+    "did": "did:key:z6Mk22c3833efb5dcc63ee6b8a9c",
+    "platform": "0xWork",
+    "reputation_score": 4,
+    "tasks_completed": 1474,
+    "tasks_rejected": 257,
+    "earnings_usd": 3.61,
+    "skills": [
+      "code",
+      "audit",
+      "yield"
+    ],
+    "guild_member": true,
+    "credentials_count": 7,
+    "registered_date": "2026-05-04",
+    "active": false
+  },
+  {
+    "id": "agent_0007",
+    "did": "did:key:z6Mk695811555454ed930765b454",
+    "platform": "Openwork",
+    "reputation_score": 10,
+    "tasks_completed": 182,
+    "tasks_rejected": 371,
+    "earnings_usd": 12.55,
+    "skills": [
+      "audit",
+      "analysis",
+      "code",
+      "research"
+    ],
+    "guild_member": true,
+    "credentials_count": 4,
+    "registered_date": "2026-08-08",
+    "active": false
+  },
+  {
+    "id": "agent_0008",
+    "did": "did:key:z6Mk6e3d77aab1f58f6410ea4f21",
+    "platform": "0xWork",
+    "reputation_score": 38,
+    "tasks_completed": 577,
+    "tasks_rejected": 291,
+    "earnings_usd": 97.39,
+    "skills": [
+      "research",
+      "audit",
+      "yield",
+      "analysis",
+      "social"
+    ],
+    "guild_member": false,
+    "credentials_count": 0,
+    "registered_date": "2026-02-05",
+    "active": false
+  },
+  {
+    "id": "agent_0009",
+    "did": "did:key:z6Mkb7785d7e8e44ae7b95d3a27e",
+    "platform": "Openwork",
+    "reputation_score": 64,
+    "tasks_completed": 1484,
+    "tasks_rejected": 458,
+    "earnings_usd": 105.66,
+    "skills": [
+      "writing",
+      "data"
+    ],
+    "guild_member": false,
+    "credentials_count": 0,
+    "registered_date": "2026-08-23",
+    "active": true
+  },
+  {
+    "id": "agent_0010",
+    "did": "did:key:z6Mka227b3896ccaf71a5f028442",
+    "platform": "Openwork",
+    "reputation_score": 31,
+    "tasks_completed": 412,
+    "tasks_rejected": 198,
+    "earnings_usd": 69.92,
+    "skills": [
+      "writing",
+      "research",
+      "social"
+    ],
+    "guild_member": true,
+    "credentials_count": 9,
+    "registered_date": "2026-02-17",
+    "active": true
+  },
+  {
+    "id": "agent_0011",
+    "did": "did:key:z6Mk093ad87f3f7ecbd8ca15bcbb",
+    "platform": "Daydreams",
+    "reputation_score": 37,
+    "tasks_completed": 577,
+    "tasks_rejected": 374,
+    "earnings_usd": 77.92,
+    "skills": [
+      "writing",
+      "data",
+      "audit",
+      "code"
+    ],
+    "guild_member": false,
+    "credentials_count": 9,
+    "registered_date": "2026-06-11",
+    "active": true
+  },
+  {
+    "id": "agent_0012",
+    "did": "did:key:z6Mk56351f842072e4a85b50c3b4",
+    "platform": "Openwork",
+    "reputation_score": 1,
+    "tasks_completed": 1937,
+    "tasks_rejected": 103,
+    "earnings_usd": 2.66,
+    "skills": [
+      "audit",
+      "code",
+      "social",
+      "research"
+    ],
+    "guild_member": false,
+    "credentials_count": 5,
+    "registered_date": "2026-03-09",
+    "active": true
+  },
+  {
+    "id": "agent_0013",
+    "did": "did:key:z6Mk6bd0935003e30a8669fcbbd5",
+    "platform": "0xWork",
+    "reputation_score": 74,
+    "tasks_completed": 359,
+    "tasks_rejected": 109,
+    "earnings_usd": 119.94,
+    "skills": [
+      "data",
+      "yield",
+      "audit",
+      "social"
+    ],
+    "guild_member": false,
+    "credentials_count": 3,
+    "registered_date": "2026-07-14",
+    "active": true
+  },
+  {
+    "id": "agent_0014",
+    "did": "did:key:z6Mk23d86221e3159d238017c368",
+    "platform": "MoltLaunch",
+    "reputation_score": 24,
+    "tasks_completed": 790,
+    "tasks_rejected": 278,
+    "earnings_usd": 55.55,
+    "skills": [
+      "social",
+      "research",
+      "data",
+      "yield"
+    ],
+    "guild_member": true,
+    "credentials_count": 6,
+    "registered_date": "2026-07-25",
+    "active": false
+  },
+  {
+    "id": "agent_0015",
+    "did": "did:key:z6Mk7b442cfbdf00f5720a55216f",
+    "platform": "Nookplot",
+    "reputation_score": 39,
+    "tasks_completed": 190,
+    "tasks_rejected": 462,
+    "earnings_usd": 115.57,
+    "skills": [
+      "code",
+      "social",
+      "yield",
+      "analysis",
+      "data"
+    ],
+    "guild_member": true,
+    "credentials_count": 6,
+    "registered_date": "2026-02-08",
+    "active": false
+  },
+  {
+    "id": "agent_0016",
+    "did": "did:key:z6Mk9e36f7dec54d40fc34feabe4",
+    "platform": "Daydreams",
+    "reputation_score": 66,
+    "tasks_completed": 1770,
+    "tasks_rejected": 465,
+    "earnings_usd": 53.67,
+    "skills": [
+      "social",
+      "writing",
+      "data",
+      "research",
+      "analysis"
+    ],
+    "guild_member": false,
+    "credentials_count": 3,
+    "registered_date": "2026-03-05",
+    "active": true
+  },
+  {
+    "id": "agent_0017",
+    "did": "did:key:z6Mkc004a32f18f9b72a353748ed",
+    "platform": "0xWork",
+    "reputation_score": 50,
+    "tasks_completed": 604,
+    "tasks_rejected": 140,
+    "earnings_usd": 28.94,
+    "skills": [
+      "social",
+      "analysis"
+    ],
+    "guild_member": true,
+    "credentials_count": 4,
+    "registered_date": "2026-03-23",
+    "active": true
+  },
+  {
+    "id": "agent_0018",
+    "did": "did:key:z6Mk352a97aa7d7d2910e69c7d37",
+    "platform": "0xWork",
+    "reputation_score": 54,
+    "tasks_completed": 360,
+    "tasks_rejected": 464,
+    "earnings_usd": 35.79,
+    "skills": [
+      "code",
+      "social",
+      "data"
+    ],
+    "guild_member": false,
+    "credentials_count": 4,
+    "registered_date": "2026-05-09",
+    "active": true
+  },
+  {
+    "id": "agent_0019",
+    "did": "did:key:z6Mk765c984c408181c3389d252b",
+    "platform": "Daydreams",
+    "reputation_score": 88,
+    "tasks_completed": 1894,
+    "tasks_rejected": 382,
+    "earnings_usd": 108.31,
+    "skills": [
+      "audit",
+      "analysis"
+    ],
+    "guild_member": true,
+    "credentials_count": 8,
+    "registered_date": "2026-05-19",
+    "active": true
+  }
+]
